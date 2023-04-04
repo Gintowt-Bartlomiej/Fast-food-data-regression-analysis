@@ -6,7 +6,7 @@
 ## Krótki opis projektu:
   Wykorzystanie modelu regresji liniowej do analizy danych z najpopularniejszych restauracji fastfoodowych w USA.
   
-## Pliku odpowiadające odpowiedniej częsci raportu:
+## Pliki odpowiadające odpowiedniej częsci raportu:
 
 ### Dane
   fastfood.csv
